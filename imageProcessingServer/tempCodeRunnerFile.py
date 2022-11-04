@@ -1,0 +1,1 @@
+self.image_hub.send_reply
